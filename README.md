@@ -1,2 +1,2 @@
 # C++
-Repository for C++
+Repository for C++ files
